@@ -10,12 +10,28 @@ I am dedicated to ensuring education is seen as a right and not a priviledge.
 
 ### More Information
 
-www.linkedin.com/in/rowanne-curran
+https://www.linkedin.com/in/rowanne-curran/ 
 
 ### Contact me
 
 [rowanne_curran@uri.edu](mailto:rowanne_curran@uri.edu)
 
 
-## <center>ROWANNE V. CURRAN</center><center>BIOTECHNOLOGY</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### POSITIONS HELDTime|Position| Affiliation--|--|--	| WEt Chemistry Intern | RI Analytical Laboratories2020 		|
-### EDUCATIONDate|Position| Affiliation--|--|--2021 |	BS in Biotechnology | University of Rhode Island, Kingston
+## <center>ROWANNE V. CURRAN</center>
+<center>B.S. BIOTECHNOLOGY</center>
+<center>University of Rhode Island</center>
+<center>120 Flagg Road, Kingston RI 02881</center>
+
+
+### POSITIONS HELD
+
+Time|Position| Affiliation
+--|--|--
+	| Wet Chemistry Intern | RI Analytical Laboratories 2020 		|
+
+
+### EDUCATION
+
+Date|Position| Affiliation
+--|--|--
+2021 |	BS in Biotechnology | University of Rhode Island, Kingston
