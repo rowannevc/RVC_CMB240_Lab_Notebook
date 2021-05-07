@@ -26,3 +26,5 @@ Looking into this, it was extremely difficult to find any resources at all on th
 Sources
 Benowitz, Neal L. “Pharmacology of nicotine: addiction, smoking-induced disease, and therapeutics.” Annual review of pharmacology and toxicology vol. 49 (2009): 57-71. doi:10.1146/annurev.pharmtox.48.113006.094742
 Prochaska, Judith J, and Neal L Benowitz. “Current advances in research in treatment and recovery: Nicotine addiction.” Science advances vol. 5,10 eaay9763. 16 Oct. 2019, doi:10.1126/sciadv.aay9763
+Cigarette Image https://i1.wp.com/www.compoundchem.com/wp-content/uploads/2014/05/Cigarette-Smoke-Compounds-March-15.png?ssl=1
+Nicotine Image https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nicotine.svg/1200px-Nicotine.svg.png
