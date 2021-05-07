@@ -19,7 +19,7 @@ Using nicotine and tobacco products has been linked in an obvious way to many he
 --
 Nicotine when separated from tobacco and tobacco smoke is not nearly as dangerous compared to when consumed through tobacco products. However, many smokers when trying to quit and turning to nicotine patches, gum and vapes are not able to fully quit smoking cigarettes. This makes me question if there are any psychoactive or addictive properties found in tobacco that are not being discussed or have not been discovered. 
 -- 
-Looking into this, it was extremely difficult to find any resources at all on the potentially addictive compounds found in tobacco other than nicotine so maybe they do not exist but I'd like to look into this in the future and maybe at some point complete some tobacco extractions to further clarify exactly what compounds are present in tobacco we may not know about. 
+Looking into this, it was extremely difficult to find any resources at all on the potentially addictive compounds found in tobacco other than nicotine so maybe they do not exist but I'd like to look into this in the future and maybe at some point complete some tobacco extractions to further clarify exactly what compounds are present in tobacco we may not know about. Below shows a figure of some identified compounds found in tobacco, but they are identified as carcinogens and do not have any addictive properties that have been discovered as of yet. 
 --
 ![Cigarette-Smoke-Compounds-March-15](https://user-images.githubusercontent.com/79463237/117403027-85251880-aed5-11eb-913d-388e5777198e.png)
 --
